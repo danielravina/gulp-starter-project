@@ -8,7 +8,9 @@
   },
   "author": "Daniel Ravina",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "browserify": "^9.0.3",
+  },
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-concat": "^2.5.2",
